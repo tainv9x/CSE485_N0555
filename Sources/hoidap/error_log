@@ -1,0 +1,14 @@
+[17-Nov-2018 07:13:53 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/axunlifohosting/public_html/thongke.php on line 6
+[17-Nov-2018 07:13:53 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/axunlifohosting/public_html/thongke.php on line 14
+[17-Nov-2018 13:58:47 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/axunlifohosting/public_html/thongke.php on line 6
+[17-Nov-2018 13:58:47 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/axunlifohosting/public_html/thongke.php on line 14
+[17-Nov-2018 17:48:03 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/axunlifohosting/public_html/thongke.php on line 6
+[17-Nov-2018 17:48:03 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/axunlifohosting/public_html/thongke.php on line 14
+[18-Nov-2018 19:02:08 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/axunlifohosting/public_html/thongke.php on line 6
+[18-Nov-2018 19:02:08 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/axunlifohosting/public_html/thongke.php on line 14
+[22-Nov-2018 15:23:09 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/axunlifohosting/public_html/thongke.php on line 6
+[22-Nov-2018 15:23:09 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/axunlifohosting/public_html/thongke.php on line 14
+[26-Nov-2018 12:00:03 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/axunlifohosting/public_html/thongke.php on line 6
+[26-Nov-2018 12:00:03 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/axunlifohosting/public_html/thongke.php on line 14
+[26-Nov-2018 13:45:42 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/axunlifohosting/public_html/thongke.php on line 6
+[26-Nov-2018 13:45:42 Asia/Ho_Chi_Minh] PHP Notice:  A session had already been started - ignoring session_start() in /home/axunlifohosting/public_html/thongke.php on line 14
