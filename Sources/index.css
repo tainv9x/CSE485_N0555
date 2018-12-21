@@ -6,20 +6,12 @@
     border-left: 0.5px solid #f1f1f1;
     height: auto;
     padding-bottom: 20px;
-    /*width: 100%;*/
 }
 .table-ls{
         overflow-x: scroll;
 
 }
-/*@media (max-width: 991px){*/
-/*    #right{*/
-/*        width: 100%;*/
-/*    }*/
-/*    #left{*/
-/*        width: 100%;*/
-/*    }*/
-/*}*/
+
 .title-op{
     font-size: 20px;
 }
@@ -29,9 +21,7 @@
     font-size: 11px;
     font-weight: normal;
 }
-/* #right>div{
-    margin-top: 16px;
-} */
+
 #row-header{
     background: #ffffff;
     padding: 1% 2%;
@@ -45,7 +35,7 @@
     margin-left: 18px;
 }
 a{
-    color: #333;    
+    color: #333;
 }
 a:focus{
     font-weight: bold;
@@ -108,14 +98,14 @@ a:hover{
     }
 }
 .dropdown-menu{
-    
+
 }
 .dangky:hover{
-   background: #9D0101; 
+   background: #9D0101;
    border: 1px solid #9D0101;
 }
 .dangnhap:hover{
-   background: #43DA02; 
+   background: #43DA02;
    border: 1px solid #43DA02;
 }
 body{
@@ -135,7 +125,7 @@ body{
     background: none;
     color: #444;
     cursor: pointer;
-    padding: 0px 0px;		    
+    padding: 0px 0px;
     width: 100%;
     border: none;
     text-align: left;
@@ -253,7 +243,7 @@ input[name='sub']:hover{
     color: #89c241;
     font-size: 15px;
 
-}   
+}
 .select{
     background: #fff;
     background-size: 16px 16px;
@@ -273,7 +263,6 @@ input[name='sub']:hover{
 .date{
     float: right;
     color: #999 !important;
-    /* margin-left: 6px; */
     font-size: 11px;
     font-weight: normal;
 }
@@ -332,10 +321,7 @@ input[name='sub']:hover{
             /* width: 186px; */
         }
     }
-/* css dang ky */
-/* #form-left{
-    padding: 0 30%;
-} */
+
 .form-dk{
     padding: 15px;
 }
@@ -436,7 +422,7 @@ input[name='sub']:hover{
     height: 30px;
     border-radius: 5px;
     border: 1px solid darkgrey;
-  
+
 } */
 .btnCT, .btnUpdate{
     height: 25px;
@@ -456,7 +442,7 @@ input[name='sub']:hover{
 }
 .btnOutPage:hover{
      background: #F22633;
-    
+
 }
 .btnSua, .btnCapTien, .btnUpage{
      height: 25px;
@@ -517,20 +503,20 @@ input[name='sub']:hover{
 }
 @media (max-width: 713px){
     .box-form{
-    }   
+    }
 }
 @media (max-width: 543px){
     .box-form{
-    }   
+    }
 }
 @media (max-width: 437px){
     .box-form{
     }
-    
+
 }
 @media (max-width: 403px){
     .form-info{
-             margin: 0 14px; 
+             margin: 0 14px;
 
     }
 }
@@ -538,20 +524,20 @@ input[name='sub']:hover{
     .input-info{
         width: 170px;
         margin-left: 17px;
-    }   
+    }
     #title-login{
         font-size: 25px;
     }
 }
 
 .control-label{
-    
+
 font-weight: 500;
 text-align: right;
 }
 @media (max-width: 768px){
     .control-label{
-        
+
         text-align: left;
 
     }
@@ -559,7 +545,7 @@ text-align: right;
 
 /* css doi pass */
 .ip-changePass{
-   
+
 }
 #box-submit{
     text-align: center;
@@ -569,7 +555,7 @@ text-align: right;
 }
 /*css crollText*/
 .scroll-left {
-        height: 50px;	
+        height: 50px;
         overflow: hidden;
         position: relative;
     }
@@ -583,9 +569,9 @@ text-align: right;
         text-align: center;
         /* Starting position */
         -moz-transform:translateX(100%);
-        -webkit-transform:translateX(100%);	
+        -webkit-transform:translateX(100%);
         transform:translateX(100%);
-        /* Apply animation to this element */	
+        /* Apply animation to this element */
         -moz-animation: scroll-left 19s linear infinite;
         -webkit-animation: scroll-left 19s linear infinite;
         animation: scroll-left 19s linear infinite;
@@ -600,15 +586,15 @@ text-align: right;
         100% { -webkit-transform: translateX(-100%); }
     }
     @keyframes scroll-left {
-        0%   { 
+        0%   {
         -moz-transform: translateX(100%); /* Browser bug fix */
         -webkit-transform: translateX(100%); /* Browser bug fix */
-        transform: translateX(100%); 		
+        transform: translateX(100%);
         }
-        100% { 
+        100% {
         -moz-transform: translateX(-100%); /* Browser bug fix */
         -webkit-transform: translateX(-100%); /* Browser bug fix */
-        transform: translateX(-100%); 
+        transform: translateX(-100%);
         }
     }
      .taikhoan{
@@ -629,7 +615,7 @@ text-align: right;
             z-index: -1;
             font-size: 2px;
         }
-    }    
+    }
      @media (max-width: 433px){
         #btn-taikhoan{
             font-size: 12px;
@@ -650,7 +636,7 @@ text-align: right;
     .nav>li:active{
         background: #C1C5BF;
     }
-     
+
      /*@media (max-width: 450px){*/
      /*    .ip-muathe{*/
      /*       width: 80%;*/
@@ -660,10 +646,10 @@ text-align: right;
      /*    .ip-muathe{*/
      /*       width: 59%;*/
      /*    }*/
-         
+
      /*}*/
      @media (max-width: 485px){
-         
+
      }
      @media (max-width: 432px){
          .dropdown-menu{
@@ -680,7 +666,7 @@ text-align: right;
      .clear {
     content: ".";
     visibility: hidden;
-    display: block; 
+    display: block;
     clear: both;
 }
 
@@ -715,8 +701,8 @@ text-align: right;
 @media (max-width: 645px){
  .scroll-left p{
         width: 230%;
-        
-   
+
+
     }
 }
 @media (max-width: 521px){
@@ -902,12 +888,12 @@ line-height: 22px !important;
     }
 }
 @media (max-width: 992px){
-    
+
     .span-input> span {
     text-align: left;
 }
 #box-gender {
-     text-align: left; 
+     text-align: left;
     padding-left: 35px;
 }
 .title-mt{
@@ -947,7 +933,7 @@ line-height: 22px !important;
 
 
 .top_news{
-     border-top: 1px solid #eee; 
+     border-top: 1px solid #eee;
     padding-top: 25px;
     margin-top: 25px;
 }
@@ -1062,7 +1048,7 @@ ul{
     }
     #footer{
         padding-right: 0px;
-        
+
     }
     .fb{
         margin-top: 15px;
@@ -1141,17 +1127,17 @@ ul{
   .box_show_message{
     margin-bottom: 15px;
     float: right;
-    border: 1px solid; 
+    border: 1px solid;
     padding: 20px;
     display: none;
   }
  @media (max-width: 767px){
 .navbar-nav .open .dropdown-menu {
-    
+
     background-color: #fff;
-    
+
 }
-     
+
  }
  .chosen-choices{
          height: 40px;
@@ -1162,7 +1148,7 @@ ul{
  .ngnhan{
      color: green;
  }
- 
+
  .img-nha-mang{
          height: 50px;
     width: 94px;
@@ -1217,9 +1203,7 @@ ul{
      background-color: #23a076;
      color: #fff;
  }
- /* .nha-mang:visited{
-    border:4px solid #23a076;
-    /* border-width: 4px; */
+
  .title-muathe{
      margin-bottom: 10px;
  }
@@ -1251,20 +1235,20 @@ ul{
  @media screen and (max-width: 465px){
     .left-infomt, .right-infomt{
         font-size: 13px;
-   
+
     }
 }
 @media screen and (max-width: 383px){
     .left-infomt, .right-infomt{
         font-size: 11px;
     }
-    
+
 }
 @media screen and (max-width: 348px){
     .left-infomt, .right-infomt{
         font-size: 9px;
     }
-    
+
 }
 @media screen and (max-width: 381px){
     .nha-mang{
@@ -1285,7 +1269,7 @@ ul{
 	.modal-content el{color:#23a076;text-decoration: underline;}
 	.big-link {display:block; margin-top: 100px; text-align: center; font-size: 70px; color: #06f;}
 	@media (max-width:768px){.modal-content {top:130px;left: 10%!important;width: 80%!important;}}
-	
+
 input[name='search'] {
     border-radius: 4px;
     border: 1px solid green;
