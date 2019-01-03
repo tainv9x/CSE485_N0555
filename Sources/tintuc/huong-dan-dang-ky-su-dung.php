@@ -18,7 +18,7 @@
       - Khi nhấp vào giao diện sẽ có như hình dưới
     </p>
     <div>
-      <img src="/tintuc/dksd.png" alt="Đăng ký Page với hệ thống" style="max-width:100% ;width:auto;" >
+      <img src="/images/dksd.png" alt="Đăng ký Page với hệ thống" style="max-width:100% ;width:auto;" >
     </div>
     <p>
       + Tiếp theo các bạn nhập thông tin Page của các bạn như ví dụ bên trên.

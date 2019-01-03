@@ -12,14 +12,14 @@
     </div>
     <h3>B1: Tại thanh <strong>Menu</strong> các bạn chọn <strong>Quản lý thành viên</strong></h3>
     <div>
-    <img src="/hoidap/qltv2.png" alt="Quản lý thành viên" style = "max-width: 100%;height: auto;"   >
+    <img src="/images/qltv2.png" alt="Quản lý thành viên" style = "max-width: 100%;height: auto;"   >
     </div>
     <hr>
     <p>Ở đây bạn sẽ chọn "Danh sách thành viên "</p>
     <p>1.2 - Sau khi chọn 'Danh sách thành viên ' sẽ hiện ra 1 cột chọn các Page bạn đang làm .
     <hr>
     <div>
-    <img class = "img-hdsd" src="/hoidap/qltv1.png" alt="Quản lý thành viên" style = "max-width: 100%;height: auto;"  >
+    <img class = "img-hdsd" src="/images/qltv1.png" alt="Quản lý thành viên" style = "max-width: 100%;height: auto;"  >
     </div>
     <hr>
     <p>- Lưu ý : Các bạn cần có Page, các Page trên hệ thống có là các Page mà Boss đăng ký sử dụng tại hệ thống và không có là do Boss Page chưa đăng ký sử dụng nên hệ thống không có dữ liệu</p>
@@ -27,21 +27,21 @@
     <p>- Khi đó giao diện xuất hiện như hình bên dưới :
     <hr>
     <div>
-    <img src="/hoidap/qltv.png" alt="Quản lý thành viên" style = "max-width: 100%;height: auto;" >
+    <img src="/images/qltv.png" alt="Quản lý thành viên" style = "max-width: 100%;height: auto;" >
     <hr>
     </div>
     <p><strong>B2:</strong> Bạn muốn chuyển tiền, cấp tiền , trả thưởng cho Admin số tiền bao nhiêu hãy chọn nút <a style="color:red;"> " Cấp tiền "</a></p>
     <p>2.1 - Sau khi chọn nút cấp tiền cột <a style="color:red;">" Cấp tiền (VNĐ) "</a> sẽ được mở khóa và bạn có thể nhập số tiền cho từng thành viên bạn muốn trả thưởng.</p>
     <hr>
     <div>
-    <img src="/hoidap/qltv4.png" alt="Quản lý thành viên" style = "max-width: 100%;height: auto;" >
+    <img src="/images/qltv4.png" alt="Quản lý thành viên" style = "max-width: 100%;height: auto;" >
     </div>
     <hr>
     <p>2.2 - Bạn nhập số tiền VNĐ muốn chi trả cho admin của mình.</p>
     <p><strong>- Lưu ý :</strong> Tiền trong tài khoản của bạn phải đủ tổng tất cả số tiền đó cộng lại nhiều hơn hoặc bằng. Nếu không đủ hệ thống sẽ báo lỗi.</p>
     <p>2.3 - Đồng nghĩa sau khi bạn nhấp vào nút <a style="color:red;"> " Cấp tiền "</a>, bạn nhập số tiền xong nút <a style="color:green;"> " Cấp tiền xong "</a>sẽ có màu xanh lá, là đã mở khóa.</p>
     <hr>
-    <img src="/hoidap/qltv5.png" alt="Quản lý thành viên"  >
+    <img src="/images/qltv5.png" alt="Quản lý thành viên"  >
     <hr>
     <p>Bạn nhập số tiền xong và chọn <a style="color:green;"> " Cấp tiền xong "</a> thế là số tiền trong tài khoản của bạn sẽ được chuyển cho thành viên của bạn sau 1 giây.</p>
     <hr>

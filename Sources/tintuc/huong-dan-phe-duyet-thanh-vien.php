@@ -21,7 +21,7 @@
       - Khi nhấp vào giao diện sẽ có như hình dưới
     </p>
     <div>
-      <img src="/tintuc/pheduyet.png" alt="Yêu cầu chờ phê duyệt (Quản lý)" style="max-width:100%; width:auto;" />
+      <img src="/images/pheduyet.png" alt="Yêu cầu chờ phê duyệt (Quản lý)" style="max-width:100%; width:auto;" />
     </div>
     <p>
       + Tiếp theo các bạn chọn <strong>Page</strong> của mình đang <strong>Quản lý</strong> và nhấn <a style="color:#8bc53f">Xác nhận - Xem</a>
@@ -30,7 +30,7 @@
       <strong>B2:</strong>Sau khi nhấn Xem thì giao diện demo như hình dưới.
     </P>
     <div>
-      <img src="/tintuc/pheduyet1.png" alt=" Yêu cầu phê duyệt thành viên" style="max-width:100%;width:auto;" />
+      <img src="/images/pheduyet1.png" alt=" Yêu cầu phê duyệt thành viên" style="max-width:100%;width:auto;" />
     </div>
     <p>
       <strong>B3:</strong> bạn CHẤP NHẬN thì người đó mới được tham gia làm thành viên của Page bạn.

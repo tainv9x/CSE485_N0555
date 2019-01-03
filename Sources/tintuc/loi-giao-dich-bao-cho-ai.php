@@ -20,7 +20,7 @@
 <hr>
 <p>
     <div>
-        <img src="/tintuc/loigd.png" alt="Lỗi giao dịch hethong24h.net"  style="max-width:100%; width:auto;display: block; margin-left: auto; margin-right: auto; " >
+        <img src="/images/loigd.png" alt="Lỗi giao dịch hethong24h.net"  style="max-width:100%; width:auto;display: block; margin-left: auto; margin-right: auto; " >
     </div>
 </p>
 <hr>

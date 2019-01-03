@@ -20,7 +20,7 @@
         - Sau khi vào <a style="color:green ">"Tài khoản ngân hàng"</a> sẽ có giao diện như bên dưới.
       </p>
       <div>
-        <img src="/tintuc/tknh.png" alt="Tài khoản ngân hàng hethong24h.net" style="max-width:100%; width:auto;" >
+        <img src="/images/tknh.png" alt="Tài khoản ngân hàng hethong24h.net" style="max-width:100%; width:auto;" >
       </div>
       <p>
         - Các bạn điền đầy đủ thông tin và nhấp <a style="color:#337ab7 ">"Cập nhật"</a>.
@@ -32,7 +32,7 @@
         <p>
           - Giao diện sẽ xuất hiện như bên dưới:
           <div>
-            <img src="/tintuc/ruttien.png" alt="Rút tiền về ATM hethong24h.net" style="max-width:100%; width:auto;" >
+            <img src="/images/ruttien.png" alt="Rút tiền về ATM hethong24h.net" style="max-width:100%; width:auto;" >
           </div>
         </p>
       </p>

@@ -18,7 +18,7 @@
       - Khi nhấp vào giao diện sẽ có như hình dưới
     </p>
     <div>
-      <img src="/tintuc/naptien.png" alt="Nạp tiền vào hethong24h.net" style="max-width:100% ;width:auto;" >
+      <img src="/images/naptien.png" alt="Nạp tiền vào hethong24h.net" style="max-width:100% ;width:auto;" >
     </div>
     <p>
       + Tiếp theo các bạn chọn 'Ngân hàng các bạn muốn dùng để chuyển tiền'
@@ -27,14 +27,14 @@
       <strong>Chọn ngân hàng</strong> và sẽ hiện thị thông tin người nhận là <a style="color:#337ab7 ">24H NET</a>
     </p>
       <div>
-        <img src="/tintuc/naptien2.png" alt="Nạp tiền vào hethong24h.net" style="max-width:100% ;width:auto;" >
+        <img src="/images/naptien2.png" alt="Nạp tiền vào hethong24h.net" style="max-width:100% ;width:auto;" >
       </div>
     <p>
       <strong>B3:</strong> Sau khi chọn ngân hàng sẽ có như hình dưới.
     </p>
     <p>
       <div>
-        <img src="/tintuc/naptien3.png" alt="Nạp tiền vào hethong24h.net" style="max-width:100% ;width:auto;" >
+        <img src="/images/naptien3.png" alt="Nạp tiền vào hethong24h.net" style="max-width:100% ;width:auto;" >
       </div>
     </p>
     <p>
@@ -46,7 +46,7 @@
     </p>
     <p>
       <div>
-        <img src="/tintuc/naptien4.png" alt="Nạp tiền vào hethong24h.net" style="max-width:100% ;width:auto;" >
+        <img src="/images/naptien4.png" alt="Nạp tiền vào hethong24h.net" style="max-width:100% ;width:auto;" >
       </div>
     </p>
     <p>

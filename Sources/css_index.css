@@ -1,0 +1,88 @@
+
+
+			body{
+				
+			}
+			#title-form{
+				height: 85px;
+				background-color: 333;
+				padding: 20px 80px;
+				color: #fff;
+			    font-size: 31px;
+			    box-shadow: 2px 1px grey;
+			}
+			#span-user{
+				padding: 6px 1px;
+			}
+			#span-password{
+				padding: 6px 6px;
+			}
+			#form{
+				padding: 20px 70px;
+			}
+			.title-s-form{
+				font-size: 25px;
+    			color: green;
+			}
+			#form-left{
+				border: 1px solid;
+				padding: 12px;
+				border: 1px solid #A7A09F;
+			   	border-radius: 7px;
+			    background-color: #FAFAFA;
+			    box-shadow: 1px 1px 5px 1px grey;
+			    margin-top: 10px;
+			}
+			#form-right{
+				border: 1px solid;
+				padding: 12px;
+				border: 1px solid #A7A09F;
+			   	border-radius: 7px;
+			    background-color: #FAFAFA;
+			    box-shadow: 1px 1px 5px 1px grey;	
+			    margin-top: 10px;
+			}
+			#box-btn{
+				text-align: center;
+			}
+			input[type="submit"]{
+				width: 136px;
+			    height: 51px;
+			    background-color: #A1D83B;
+			    color: #fff;
+			    border: 1px solid #A1D83B;
+			    border-radius: 16px;
+			    font-size: 18px;
+			}
+			input[type="submit"]:hover{
+				background-color: green;
+			}
+			.error{
+				color: red;
+				margin: 0px 10px;
+			}
+			#box-radio{
+				display: inline-block;
+				float: right;
+			}
+			.inputs{
+				float: right;
+			}
+			#form .col-md-7{
+				margin: 10px;
+			}
+			#box-gender{
+				margin: 10px;
+			}
+			#span-name{
+				padding: 8px 18px;
+			}
+			#span-phone{
+				padding: 8px 17px;
+			}
+			.success
+			{
+				text-align: center;
+			    color: green;
+			    font-size: 18px;
+			}

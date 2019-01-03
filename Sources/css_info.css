@@ -1,0 +1,77 @@
+
+		body{
+				background-image: url('‪‪../../../img/LoginBG.png');
+		}
+		#title-form-panel{
+				height: 85px;
+				background-color: 333;
+				padding: 20px 80px;
+				color: #fff;
+			    font-size: 31px;
+			    box-shadow: 2px 1px grey;
+			}
+		#form{
+				border: 1px solid;
+				padding: 12px;
+				border: 1px solid #A7A09F;
+			   	border-radius: 7px;
+			    background-color: #FAFAFA;
+			    box-shadow: 1px 1px 5px 1px grey;
+		}
+		.btnXoa{
+			background-color: red;
+			color: #fff;
+		}
+		.btnSua-panel{
+			background-color: blue;
+			color: #fff;
+		}
+		.btnDelAll{
+			    background-color: #F7BE81;
+			    float: right;
+		}
+		.btnUpdate-panel{
+			background-color: grey;
+			color: #fff;
+		}
+		.inputs-panel{
+			padding: 10px;
+		}
+		.error-panel{
+			text-align: left;
+		    color: red;
+		    font-size: 19px;
+		    padding-left: 13px;
+		}
+		.error2{
+			text-align: left;
+		    color: red;
+		    padding-left: 13px;
+		}
+		.success-panel{
+			text-align: left;
+		    color: green;
+		    font-size: 19px;
+		    padding-left: 13px;
+		}
+		.inputs-panel{
+    		border: none;
+		}
+		.del{
+			background-color: red;
+			color: #fff;
+		}
+		.btnSua-panel{
+			border: none;
+		}
+		.table th{
+			text-align: center;
+		}
+		.select-panel{
+		background-color: rgb(235, 235, 228);
+		border: none;
+		}
+		.date-panel{
+			line-height: 22px;
+		}
+		

@@ -8,7 +8,7 @@
                     <p><i class="fas fa-volume-up fa-1x"></i>Hệ Thống 24h NET là 1 tiện ích giúp Boss trả thưởng ,quản lý thành viên của Page một cách chuyên nghiệp dễ dàng và bớt tốn kém thời gian,hãy nhanh tay đăng ký để sử dụng ngay hôm nay ! </p>
                 </div>
                 <div style = " margin: 0 -15px;" class = "banner">
-                  <img style = "max-width: 100%;height: auto;" src = "banner.png" />
+                  <img style = "max-width: 100%;height: auto;" src = "/images/banner.png" />
 
                 </div>
                  <div class = "top_news" style = "background: #fff;">
@@ -19,15 +19,15 @@
                         <div class = "col-md-3 col-sm-6">
                           <div class = "item-news">
                             <a href = "#" title = "Viettel tặng ngay 20% giá trị thẻ nạp vào ngày 20/7/2018">
-                              <img src = "20180718141957viettel-khuyen-mai-20-the-nap-ngay-20-7-2018-tren-toan-quoc24138medium250x200.jpg">
+                              <img src = "/images/viettelkm-20-7-2018.jpg">
                             </a>
-                            <h4><a href = "#" title = "Viettel tặng ngay 20% giá trị thẻ nạp vào ngày 20/7/20">Viettel tặng ngay 20% giá trị thẻ nạp vào ngày 20/7/2018</a></h4>
+                            <h4><a href = "#" title = "Viettel tặng ngay 20% giá trị thẻ nạp vào ngày 20/7/2018">Viettel tặng ngay 20% giá trị thẻ nạp vào ngày 20/7/2018</a></h4>
                           </div>
                         </div>
                         <div class = "col-md-3 col-sm-6">
                             <div class = "item-news">
                                 <a href = "#" title = "MobiFone khuyến mãi 20% thẻ nạp TOÀN QUỐC vào ngày 18/7/2018">
-                                  <img src = "20180716161915khuyen-mai-mobifone-vao-ngay-18-7-201824126medium250x200.jpg">
+                                  <img src = "/images/mobikm.jpg">
                                 </a>
                                 <h4><a href = "#" title = "MobiFone khuyến mãi 20% thẻ nạp TOÀN QUỐC vào ngày 18/7/2018">MobiFone khuyến mãi 20% thẻ nạp TOÀN QUỐC vào ngày 18/7/2018</a></h4>
                               </div>
@@ -35,7 +35,7 @@
                         <div class = "col-md-3 col-sm-6">
                             <div class = "item-news">
                                 <a href = "#" title = "Khuyến mãi VinaPhone ngày 17/7/2018: Ưu đãi đến 20% thẻ nạp">
-                                  <img src = "20180716152247khuyen-mai-nap-the-vinaphone-ngay-17-7-201824124medium250x200.jpg">
+                                  <img src = "/images/vinakm.jpg">
                                 </a>
                                 <h4><a href = "#" title = "Khuyến mãi VinaPhone ngày 17/7/2018: Ưu đãi đến 20% thẻ nạp">Khuyến mãi VinaPhone ngày 17/7/2018: Ưu đãi đến 20% thẻ nạp</a></h4>
                               </div>
@@ -43,7 +43,7 @@
                         <div class = "col-md-3 col-sm-6">
                             <div class = "item-news">
                                 <a href = "#" title = "Đừng bỏ lỡ: Khuyến mãi nạp thẻ MobiFone tặng 2GB đến 20GB vào ngày 12/7/2018">
-                                  <img src = "20180510103918khuyen-mai-mobifone-nap-the-tang-data-hang-thang23780medium250x200.jpg">
+                                  <img src = "/images/mobikm2.jpg">
                                 </a>
                                 <h4><a href = "#" title = "Đừng bỏ lỡ: Khuyến mãi nạp thẻ MobiFone tặng 2GB đến 20GB vào ngày 12/7/2018">Đừng bỏ lỡ: Khuyến mãi nạp thẻ MobiFone tặng 2GB đến 20GB vào ngày 12/7/2018</a></h4>
                               </div>
@@ -63,7 +63,7 @@
                           <div class = "content-left-intro">
                               <div class = "row">
                                 <div class = "col-md-2 col-sm-3 col-xs-3">
-                                  <img src = "20170606194907home-personalize.png" alt = "Quản lý thành viên hoàn hảo">
+                                  <img src = "/images/qlydongian.png" alt = "Quản lý thành viên hoàn hảo">
                                 </div>
                                 <div class = "col-md-10 col-sm-9 col-xs-9">
                                   <span class = "title-left-intro">Quản lý thành viên hoàn hảo, đơn giản</span>
@@ -76,7 +76,7 @@
                           <div class = "content-left-intro">
                               <div class = "row">
                                   <div class = "col-md-2 col-sm-3 col-xs-3">
-                                    <img src = "20170606195029home-fast.png" alt = "Nhanh và dễ dàng">
+                                    <img src = "/images/nhanh.png" alt = "Nhanh và dễ dàng">
                                   </div>
                                   <div class = "col-md-10 col-sm-9 col-xs-9">
                                     <span class = "title-left-intro">Nhanh và dễ dàng</span>
@@ -89,7 +89,7 @@
                           <div class = "content-left-intro">
                               <div class = "row">
                                   <div class = "col-md-2 col-sm-3 col-xs-3">
-                                    <img src = "20170606195103home-secure.png" alt = "Bảo mật tuyệt đối">
+                                    <img src = "/images/baomat.png" alt = "Bảo mật tuyệt đối">
                                   </div>
                                   <div class = "col-md-10 col-sm-9 col-xs-9">
                                     <span class = "title-left-intro">Bảo mật tuyệt đối</span>
@@ -102,7 +102,7 @@
                           <div class = "content-left-intro">
                               <div class = "row">
                                   <div class = "col-md-2 col-sm-3 col-xs-3">
-                                    <img src = "20170606195142home-support.png" alt = "Hỗ trợ 24/7">
+                                    <img src = "/images/hotro247.png" alt = "Hỗ trợ 24/7">
                                   </div>
                                   <div class = "col-md-10 col-sm-9 col-xs-9">
                                     <span class = "title-left-intro">Hỗ trợ 24/7</span>
@@ -117,7 +117,7 @@
                       </div>
                       <div class = "col-md-6 hidden-xs">
                         <div class = "img-product-intro">
-                          <img src = "phone-cover-1.png">
+                          <img src = "/images/phone-cover-1.png">
                         </div>
                       </div>
                     </div>
